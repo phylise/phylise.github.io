@@ -1,0 +1,1706 @@
+
+html {
+	font-size:30.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 147.7rem;
+}.frame-hjt {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.frame-hjt .auto-group-gieh-L2A {
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 7.3rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-mbss-ww4 {
+  margin: 0rem 5.3rem 2.1rem 5rem;
+  width: calc(100% - 10.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-mbss-ww4 .craigslist-8ke {
+  margin-right: 3.1rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-mbss-ww4 .ellipse-1-RUr {
+  margin: 1.3rem 59.2rem 0rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-mbss-ww4 .buy-sell-rent-agent-help-sign-in-Xnn {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #5f5f5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg {
+  margin: 0rem 10.1rem 4rem 7.4rem;
+  width: calc(100% - 17.5rem);
+  height: 70.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .group-8-xdC {
+  width: 83rem;
+  height: 19.8rem;
+  position: absolute;
+  left: 31.9rem;
+  top: 23.2rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .group-8-xdC .finding-the-perfect-home-for-you-1rN {
+  margin-bottom: 2.3rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .group-8-xdC .auto-group-wu1p-ugr {
+  width: 100%;
+  height: 11.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .group-8-xdC .auto-group-wu1p-ugr .rectangle-2-Ej8 {
+  box-sizing: border-box;
+  padding: 0.05rem;
+  width: 83rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-afQ.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .group-8-xdC .auto-group-wu1p-ugr .rectangle-2-Ej8 .vector-mW6 {
+  width: 82.9rem;
+  height: 11.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .group-8-xdC .auto-group-wu1p-ugr .enter-a-neighbourhood-city-state-or-zip-code-S6S {
+  width: 75.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 3.6rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #626262;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ycny-qHg .house1-1-JeS {
+  width: 130.2rem;
+  height: 70.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg {
+  margin: 0rem 1.654rem 4rem 2.331rem;
+  width: calc(100% - 3.9853rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .our-services-8Na {
+  margin: 0rem 0rem 1.3rem 2.854rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g {
+  width: 100%;
+  height: 63.1997rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x {
+  margin: 0.476rem 4.853rem 0.3rem 0rem;
+  width: 44.7799rem;
+  height: calc(100% - 0.7758rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .screenshot-2023-05-04-at-71238-pm-ekE {
+  width: 43.2181rem;
+  height: 31.8922rem;
+  position: absolute;
+  left: 0.8361rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .rectangle-3-XZ8 {
+  box-sizing: border-box;
+  padding: 0.05rem 0.055rem 0.05rem 0.055rem;
+  width: 44.7799rem;
+  height: 61.1rem;
+  position: absolute;
+  left: 0;
+  top: 1.3239rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-hpr.png');
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .rectangle-3-XZ8 .vector-aGW {
+  width: 44.6696rem;
+  height: 61rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .property-listing-7GS {
+  width: 27.5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 6.6177rem;
+  top: 27.9239rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp {
+  width: 42.1rem;
+  height: 18.0973rem;
+  position: absolute;
+  left: 1.4691rem;
+  top: 38.6239rem;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp .looking-for-sale-rent-or-lease-we-2Gv {
+  width: 42.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp .include-details-such-as-the-SrS {
+  width: 32.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 4.3383rem;
+  top: 2.9995rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp .propertys-location-size-price-and-7Bt {
+  width: 41.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 0.1841rem;
+  top: 5.9989rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp .amenities-users-can-browse-the-abG {
+  width: 39.3rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 1.1798rem;
+  top: 8.9984rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp .listings-and-filter-them-based-on-Uge {
+  width: 38.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 1.3437rem;
+  top: 11.9978rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .looking-for-sale-rent-or-lease-we-include-details-such-as-the-propertys-location-size-price-and-amenities-users-can-browse-the-listings-and-filter-them-based-on-their-preferences-1Mp .their-preferences-nBY {
+  width: 21rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 8.8378rem;
+  top: 14.9973rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-k5wm-B5x .icon1-1-4Px {
+  width: 25rem;
+  height: 20.3rem;
+  position: absolute;
+  left: 6.6691rem;
+  top: 6.2239rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k {
+  margin-right: 3.4192rem;
+  width: 44.7799rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .screenshot-2023-05-04-at-71355-pm-Tgz {
+  width: 37.0051rem;
+  height: 29.1127rem;
+  position: absolute;
+  left: 3.7135rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .rectangle-5-nUN {
+  box-sizing: border-box;
+  padding: 0.05rem 0.0551rem;
+  width: 44.7799rem;
+  height: 61.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.0997rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Dbc.png');
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .rectangle-5-nUN .vector-6zr {
+  width: 44.6696rem;
+  height: 61rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .property-valuation-eFg {
+  width: 32.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 5.2942rem;
+  top: 28.8997rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .input-details-about-your-property-and-we-will-provide-an-estimated-value-based-on-the-area-perfect-for-those-thinking-of-selling-or-refinancing-their-property-9iE {
+  width: 43.1rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 1.4363rem;
+  top: 39.0997rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .input-details-about-your-property-and-we-will-provide-an-estimated-value-based-on-the-area-perfect-for-those-thinking-of-selling-or-refinancing-their-property-9iE .input-details-about-your-property-YEa {
+  margin-right: 1.0468rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .input-details-about-your-property-and-we-will-provide-an-estimated-value-based-on-the-area-perfect-for-those-thinking-of-selling-or-refinancing-their-property-9iE .and-we-will-provide-an-estimated-TMY {
+  margin-right: 1.403rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .input-details-about-your-property-and-we-will-provide-an-estimated-value-based-on-the-area-perfect-for-those-thinking-of-selling-or-refinancing-their-property-9iE .value-based-on-the-area-perfect-for-B2e {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .input-details-about-your-property-and-we-will-provide-an-estimated-value-based-on-the-area-perfect-for-those-thinking-of-selling-or-refinancing-their-property-9iE .those-thinking-of-selling-or-6vJ {
+  margin-right: 1.2257rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .input-details-about-your-property-and-we-will-provide-an-estimated-value-based-on-the-area-perfect-for-those-thinking-of-selling-or-refinancing-their-property-9iE .refinancing-their-property-prJ {
+  margin-right: 1.9349rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group-y7im-N9k .icon2-1-9ta {
+  width: 27.4rem;
+  height: 22.9rem;
+  position: absolute;
+  left: 8.1363rem;
+  top: 4.0997rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group {
+  margin-bottom: 0.3rem;
+  width: 45.8828rem;
+  height: 61.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .screenshot-2023-05-04-at-71245-pm-KwU {
+  width: 29.1017rem;
+  height: 23.6332rem;
+  position: absolute;
+  left: 8.9566rem;
+  top: 1.537rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .rectangle-4-DGA {
+  box-sizing: border-box;
+  padding: 0.05rem 0.055rem 0.05rem 0.055rem;
+  width: 44.7799rem;
+  height: 61.1rem;
+  position: absolute;
+  left: 1.103rem;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector.png');
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .rectangle-4-DGA .vector-8P8 {
+  width: 44.6696rem;
+  height: 61rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .property-management-sLi {
+  width: 38.4rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 5.1839rem;
+  top: 27.1rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ {
+  width: 42.2061rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 0;
+  top: 35.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ .for-landlords-and-property-owners-xFg {
+  margin-left: 0.1061rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ .such-as-rent-collection-43p {
+  margin-left: 0.1014rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ .maintenance-and-repairs-tenant-Yjg {
+  margin-left: 0.226rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ .screening-manage-properties-smx {
+  margin-left: 0.3701rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ .remotely-and-save-time-and-money-BXk {
+  margin-right: 0.2061rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .for-landlords-and-property-owners-such-as-rent-collection-maintenance-and-repairs-tenant-screening-manage-properties-remotely-and-save-time-and-money-on-property-management-uYJ .on-property-management-hW6 {
+  margin-right: 1.3563rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #707070;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-7-QBg .group-2-r3g .auto-group .icon3-1-Pti {
+  width: 22.6rem;
+  height: 19.3rem;
+  position: absolute;
+  left: 10.7372rem;
+  top: 4.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .explore-homes-on-craigslist-us4 {
+  margin: 0rem 0rem 4rem 4rem;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #5f5f5f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG {
+  margin: 0rem 3.2rem 3.1rem 6.2rem;
+  width: calc(100% - 9.4rem);
+  height: 171.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .house2-1-uVg {
+  width: 67.6rem;
+  height: 44rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .house3-1-Riv {
+  width: 55rem;
+  height: 58.4rem;
+  position: absolute;
+  left: 77.9rem;
+  top: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .house4-1-LL6 {
+  width: 66.2rem;
+  height: 63.1rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 48rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .house5-1-GjY {
+  width: 56.7rem;
+  height: 47.6rem;
+  position: absolute;
+  left: 77.9rem;
+  top: 67.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .house6-1-QKx {
+  width: 125.9rem;
+  height: 53.9rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 117.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .boston-ma-LjQ {
+  width: 19.8rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 29.5425rem;
+  top: 3.8rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz {
+  width: 128rem;
+  height: 169.8rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp {
+  margin: 0rem 0rem 4.9rem 0.4rem;
+  width: calc(100% - 0.4rem);
+  height: 111rem;
+  display: flex;
+  align-items: center;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-ewxd-fv6 {
+  margin-right: 3.3rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-ewxd-fv6 .pexels-binyamin-mellish-186077-gaJ {
+  margin-bottom: 3.9rem;
+  width: 67.6rem;
+  height: 44rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-ewxd-fv6 .auto-group-5fuo-CoY {
+  margin-right: 1.4rem;
+  box-sizing: border-box;
+  padding: 56rem 12.5rem 2.8rem 28.4rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pexels-tobias-bjrkli-2119714.png');
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-znpw-GYW {
+  width: 56.7rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-znpw-GYW .auto-group-1wqj-Die {
+  margin-bottom: 5rem;
+  box-sizing: border-box;
+  padding: 33.3rem 6rem 1.4rem 6rem;
+  width: 55rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pexels-julia-kuzenkov-1974596.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-znpw-GYW .auto-group-1wqj-Die .boston-ma-tZt {
+  margin: 0rem 7.2rem 15.1rem 0rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-znpw-GYW .auto-group-1wqj-Die .oakland-ca-nfG {
+  margin-right: 21.7rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-xra5-CFp .auto-group-znpw-GYW .auto-group-xtky-fyx {
+  box-sizing: border-box;
+  padding: 41.8rem 6rem 1.5rem 6rem;
+  width: 100%;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pexels-binyamin-mellish-1396132.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-9gpm-dHG .group-29-ezz .auto-group-kvxz-Z3k {
+  box-sizing: border-box;
+  padding: 47rem 6.3rem 2.6rem 6.3rem;
+  width: 125.9rem;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pexels-alex-staudinger-1732414.png');
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt {
+  margin-left: 11.1rem;
+  width: 136.6rem;
+  height: 25.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .rectangle-6-YAa {
+  box-sizing: border-box;
+  padding: 0.05rem;
+  width: 136.6rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-QeA.png');
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .rectangle-6-YAa .vector-dxi {
+  width: 136.5rem;
+  height: 25.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .look-for-the-best-prices-within-your-fingertips-Z5g {
+  width: 75.4rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 6.5rem;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .look-for-the-best-prices-within-your-fingertips-Z5g .look-for-the-best-prices-within-GEz {
+  margin-bottom: 0.2rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .look-for-the-best-prices-within-your-fingertips-Z5g .your-fingertips-ALN {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .group-3-VdY {
+  width: 40.9rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 8.2rem;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .group-3-VdY .rectangle-7-zaJ {
+  box-sizing: border-box;
+  padding: 0.2rem;
+  width: 40.9rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-xGv.png');
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .group-3-VdY .rectangle-7-zaJ .vector-8Ai {
+  width: 40.5rem;
+  height: 10.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .group-18-oTt .group-3-VdY .get-started-e94 {
+  width: 27rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 2.3rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A {
+  margin-left: 5.6rem;
+  width: calc(100% - 5.6rem);
+  height: 64.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .group-12-rkv {
+  margin: 12.4rem 8.7rem 25.3rem 0rem;
+  width: 55.9rem;
+  height: calc(100% - 37.7rem);
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .group-12-rkv .need-a-home-loan-Mhg {
+  margin-bottom: 2rem;
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #403f3f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .group-12-rkv .get-pre-approved-today-and-take-the-first-step-towards-owning-your-dream-home-dv6 {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .group-12-rkv .get-pre-approved-today-and-take-the-first-step-towards-owning-your-dream-home-dv6 .get-pre-approved-today-and-take-the-first-step-9tS {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #626262;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .group-12-rkv .get-pre-approved-today-and-take-the-first-step-towards-owning-your-dream-home-dv6 .towards-owning-your-dream-home-SMk {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #626262;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .group-12-rkv .group-9-B4S {
+  width: 26.6rem;
+  height: 9.3rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-15.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .auto-group-dsfx-TXk {
+  width: 77.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .auto-group-dsfx-TXk .sel1-1-QSz {
+  width: 77.2rem;
+  height: 64.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-18vj-w8A .auto-group-dsfx-TXk .fe08caf9ad4aedcc74e236fa05a89e-vAS {
+  width: 77.2rem;
+  height: 64.7rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ {
+  margin-right: 3.365rem;
+  width: 144.335rem;
+  height: 68.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .sel2-1-jNn {
+  width: 87.2rem;
+  height: 68.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .f4edcb3ae8b57a2434859a2cc-szn {
+  width: 87.2rem;
+  height: 68.1rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .group-13-auC {
+  width: 60.435rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 83.9rem;
+  top: 20.7rem;
+  row-gap: 1.6rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .group-13-auC .get-local-info-tQ6 {
+  margin-right: 4.1503rem;
+  font-size: 5.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #403f3f;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .group-13-auC .check-out-schools-amenities-community-and-more-information-about-your-next-neighbourhood-QtE {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .group-13-auC .check-out-schools-amenities-community-and-more-information-about-your-next-neighbourhood-QtE .check-out-schools-amenities-community-and-7Xk {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #626262;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .group-13-auC .check-out-schools-amenities-community-and-more-information-about-your-next-neighbourhood-QtE .more-information-about-our-next-neighbourhood-F8A {
+  margin-right: 3.035rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #626262;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-djox-QrJ .group-13-auC .group-10-LfQ {
+  margin-right: 1.935rem;
+  width: 26.6rem;
+  height: 9.3rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-15-XAE.png');
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA {
+  margin: 0rem 0rem 2.1rem 0.1rem;
+  width: 147.6rem;
+  height: 117.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar {
+  width: 136.6rem;
+  height: 81.6rem;
+  position: absolute;
+  left: 11rem;
+  top: 29.6rem;
+  background-size: 100% 100%;
+  background-position: -28.163rem 1.5771rem;
+  background-image: url('../assets/image-2-bg.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .ff91398046b09143d1be16d790c1924-kMk {
+  width: 32.1648rem;
+  height: 59.6728rem;
+  position: absolute;
+  left: 57.3001rem;
+  top: 8.5728rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .get-the-app-4tE {
+  width: 24.1rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 96.916rem;
+  top: 13.2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #0a3b98;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .be-notified-as-soon-as-yourdream-listing-is-available-Ntv {
+  width: 43.5rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 88.8924rem;
+  top: 19.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .be-notified-as-soon-as-yourdream-listing-is-available-Ntv .be-notified-as-soon-as-your-UBG {
+  font-size: 3.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #777676;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .be-notified-as-soon-as-yourdream-listing-is-available-Ntv .dream-listing-is-available-NXY {
+  margin-right: 0.8976rem;
+  font-size: 3.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #777676;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .screenshot-2023-05-08-at-33142-pm-Uaa {
+  width: 24.8rem;
+  height: 45.7rem;
+  position: relative;
+  left: 94.9rem;
+  top: 31.4rem;
+  background-size: 100% 100%;
+  background-image: url('../assets/screenshot-2023-05-08-at-33142-pm.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-11-2Ar .group-11-2Ar-bg {
+  width: 136.6rem;
+  height: 81.6rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:11520cc976539ad7aaa98a00f52bfe11811a4317');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 {
+  box-sizing: border-box;
+  padding: 9.118rem 4.421rem 9.735rem 7.009rem;
+  width: 147.3rem;
+  height: 33.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-16.png');
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 .auto-group-6z45-wsU {
+  margin-right: 10.3665rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 .auto-group-6z45-wsU .talk-to-an-agent-JCE {
+  margin-bottom: 1.4471rem;
+  font-size: 7.3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #403e3e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 .auto-group-6z45-wsU .were-here-to-help-any-inquiries-are-welcome-pAa {
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #504d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 .auto-group-w8g5-VXc {
+  margin: 1.434rem 0rem 1.431rem 0rem;
+  width: 49.6032rem;
+  height: calc(100% - 2.8657rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 .auto-group-w8g5-VXc .where-are-you-looking-for-B9Y {
+  margin: 0rem 0rem 1.51rem 0.975rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #504d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .group-15-Ey4 .auto-group-w8g5-VXc .auto-group-khos-HyG {
+  width: 100%;
+  height: 7.1713rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #504d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-18.png');
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .auto-group-ckvr-ZYA .sel3-1-kM4 {
+  width: 136.9rem;
+  height: 81.6rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 35.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-hjt .auto-group-gieh-L2A .search-for-homes-by-city-fyp {
+  margin: 0rem 85.8rem 1.6rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #504d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup {
+  margin: 0rem 6.4rem 0rem 12.8rem;
+  width: calc(100% - 19.2rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 {
+  margin: 0rem 3rem 0.3rem 0rem;
+  row-gap: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .alexandria-real-estate-VbU {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .anchorage-real-estate-dhg {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .arlington-real-estate-n4n {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .ashburn-real-estate-KaW {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .atlanta-real-estate-fuG {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .aurora-real-estate-cZc {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .austin-real-estate-LEi {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .alexandria-real-estateanchorage-real-estatearlington-real-estateashburn-real-estateatlanta-real-estateaurora-real-estateaustin-real-estatebakersfield-real-estate-ge2 .bakersfield-real-estate-gpN {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk {
+  margin-right: 2.9rem;
+  row-gap: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .baltimore-real-estate-s8A {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .baton-rouge-real-estate-oXc {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .beaverton-real-estate-Yk6 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .bend-real-estate-fJv {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .birmingham-real-estate-BHG {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .boca-raton-real-estate-X6E {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .boise-real-estate-Tka {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .baltimore-real-estatebaton-rouge-real-estatebeaverton-real-estatebend-real-estatebirmingham-real-estateboca-raton-real-estateboise-real-estateboston-real-estate-1bk .boston-real-estate-opS {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G {
+  margin-right: 4.9rem;
+  row-gap: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .boulder-real-estate-bEW {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .bowie-real-estate-jbc {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .brentwood-real-estate-TGi {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .buffalo-real-estate-CVC {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .burlington-real-estate-9QS {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .cape-coral-real-estate-fta {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .chandler-real-estate-DQJ {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .boulder-real-estatebowie-real-estatebrentwood-real-estatebuffalo-real-estateburlington-real-estatecape-coral-real-estatechandler-real-estatecharleston-real-estate-M5G .charleston-real-estate-MWW {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog {
+  row-gap: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .charlotte-real-estate-iEa {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .chattanooga-real-estate-rbg {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .chicago-real-estate-o18 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .cincinnati-real-estate-8p6 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .colorado-springs-real-estate-UNA {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .columbia-real-estate-pS2 {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .columbus-real-estate-NCe {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .auto-group-gieh-L2A .group-22-Pup .charlotte-real-estatechattanooga-real-estatechicago-real-estatecincinnati-real-estatecolorado-springs-real-estatecolumbia-real-estatecolumbus-real-estatedallas-real-estate-gog .dallas-real-estate-VYA {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #356fcb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc {
+  box-sizing: border-box;
+  padding: 3.5rem 1.556rem 3.5rem 6.596rem;
+  width: 100%;
+  height: 24.9rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-17.png');
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .auto-group-aqq1-tqC {
+  margin: 0rem 17.454rem 4.6rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .auto-group-aqq1-tqC .auto-group-6nq3-pTx {
+  margin-bottom: 4rem;
+  width: 25.3015rem;
+  height: 6.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .auto-group-aqq1-tqC .auto-group-6nq3-pTx .craigslist-A22 {
+  width: 24rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 5.1rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-hjt .group-24-1Fc .auto-group-aqq1-tqC .auto-group-6nq3-pTx .ellipse-2-sSE {
+  width: 3.2438rem;
+  height: 3rem;
+  position: absolute;
+  left: 22.0577rem;
+  top: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-hjt .group-24-1Fc .auto-group-aqq1-tqC .copyright-2023-realtytrac-all-rights-reserved-Ntn {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG {
+  margin: 2.5rem 0rem 5.8rem 0rem;
+  height: calc(100% - 8.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-vp13-DuQ {
+  margin: 0.1rem 1.7rem 0.1rem 0rem;
+  height: calc(100% - 0.2rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-vp13-DuQ .about-us-xMC {
+  margin-bottom: 3.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-vp13-DuQ .contact-VM8 {
+  margin-right: 0.0587rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .line-1-zYn {
+  margin-right: 2.2963rem;
+  width: 0;
+  height: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-pk9b-54S {
+  margin: 0rem 1.254rem 0.1rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-pk9b-54S .sitemap-cKG {
+  margin-bottom: 3.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-pk9b-54S .login-kgN {
+  margin-right: 0.5326rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .line-2-hLi {
+  margin: 0.1rem 2.92rem 0rem 0rem;
+  width: 0;
+  height: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-jh9x-dkA {
+  margin: 0rem 1.18rem 0.1rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-jh9x-dkA .terms-of-use-yJE {
+  margin-bottom: 3.3rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-jh9x-dkA .sign-up-6Nr {
+  margin-right: 1.2176rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .line-3-SBp {
+  margin: 0.1rem 1.722rem 0rem 0rem;
+  width: 0;
+  height: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-tekf-kTQ {
+  margin-bottom: 0.1rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-tekf-kTQ .privacy-policy-sY2 {
+  margin: 0rem 0.021rem 3.3rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-hjt .group-24-1Fc .group-17-hRG .auto-group-tekf-kTQ .accessibility-zsY {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
